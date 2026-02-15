@@ -11,6 +11,8 @@
 5. Basic command dispatch table
 
 
+
+
 ## Flow
 
 The server utilizes [eventpoll](https://man7.org/linux/man-pages/man7/epoll.7.html) system calls to be able to handle multiple clients
